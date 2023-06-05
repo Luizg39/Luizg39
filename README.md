@@ -12,7 +12,8 @@ Além disso, durante o curso de Ciências Econômicas, tive a oportunidade de ap
 
 Tenho experiência no trabalho com **Python, R, SQL e Tableau (Ferrramentas de construção de dashboard no geral) para desenvolver análises exploratórias de dados, análises estatísticas, visualizações e ETL**. Também utilizo o Excel com frequência em minhas atividades.
 
-Além disso, gostaria de mencionar que possuo um **nível avançado de inglês**, o que me permite comunicar e colaborar de forma eficaz em projetos internacionais. 
+Além disso, gostaria de mencionar que possuo um **nível avançado de inglês**, o que me permite comunicar e colaborar de forma eficaz em projetos internacionais.
+
 
 Estou animado para aplicar meus conhecimentos em projetos reais e continuar crescendo nessa área tão promissora! Se tiver alguma pergunta ou precisar de ajuda, **fique à vontade para me perguntar**. 
 
