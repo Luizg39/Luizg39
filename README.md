@@ -16,7 +16,7 @@ Além disso, gostaria de mencionar que possuo um **nível avançado de inglês**
 
 Estou animado para aplicar meus conhecimentos em projetos reais e continuar crescendo nessa área tão promissora! Se tiver alguma pergunta ou precisar de ajuda, **fique à vontade para me perguntar**. 
 
-
+\
 
 **My name is Luiz Guilherme G. R. Pereira, and I am a data professional. It's a pleasure to have you here!** I have always been fascinated by technology and knew from an early stage that I wanted to pursue a career in this field. I graduated as a **Computer Technician** from IFMS and decided to further my studies by pursuing a degree in **Economics** at the Federal University of Mato Grosso do Sul (UFMS).
 
