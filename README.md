@@ -35,8 +35,7 @@ E fique a vontade para dar uma olhada nos meus projetos aqui em baixo:
 |    Nome do Projeto  | Notebook ou Link    | Linguagem    | Observação  | 
 | ------------        | ------------        | ------------ |------------ |
 | *Análise Baseada em Eventos de um E-commerce* | [Projeto_Analise_Eventos](https://github.com/Luizg39/TripleTen-10-Projeto_Analise_Eventos?search=1) | Python| **Um projeto com Análise Baseada em Eventos e Teste A/B**, da definição do problema, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), tratamento, Análise de Funil de vendas e Análise do TesteA/B, de um e-commerce de produtos alimentícios.|
-
-| *Análise dos Restaurantes de Los Angeles | [Projeto_Rest_LosAngeles](https://github.com/Luizg39/TripleTen-9-Projeto_Rest_LosAngeles?search=1) | Python| **Um projeto de Análise de dados**, da definição do problema, tratamento, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), Análise das condições de mercado de retaurantes em Los Angeles, com apresentação no final.
+| *Análise dos Restaurantes de Los Angeles | [Projeto_Rest_LosAngeles](https://github.com/Luizg39/TripleTen-9-Projeto_Rest_LosAngeles?search=1) | Python| **Um projeto de Análise de dados**, da definição do problema, tratamento, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), Análise das condições de mercado de retaurantes em Los Angeles, com apresentação no final.|
 
 
 
