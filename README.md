@@ -16,21 +16,6 @@ Além disso, gostaria de mencionar que possuo um **nível avançado de inglês**
 
 Estou animado para aplicar meus conhecimentos em projetos reais e continuar crescendo nessa área tão promissora! Se tiver alguma pergunta ou precisar de ajuda, **fique à vontade para me perguntar**. 
 
-\
-
-**My name is Luiz Guilherme G. R. Pereira, and I am a data professional. It's a pleasure to have you here!** I have always been fascinated by technology and knew from an early stage that I wanted to pursue a career in this field. I graduated as a **Computer Technician** from IFMS and decided to further my studies by pursuing a degree in **Economics** at the Federal University of Mato Grosso do Sul (UFMS).
-
-Although I had a technical background in computer science, I realized that I also had an interest and aptitude for **data analysis and economics**. In September 2022, I decided to invest in **Data Analysis** courses to enhance my skills in these fields. I quickly fell in love with the area as it involves **programming, statistics, and analytical thinking**.
-
-I enrolled in the Data Analyst Bootcamp by Practicum by Yandex. **During the course, I gained valuable knowledge about key Python libraries used in data analysis, such as pandas, numpy, matplotlib, plotly, scipy, and scikit-learn, among others. I learned how to apply them to solve business problems, including machine learning, customer segmentation, KPI analysis, statistical testing, and economic analysis**. I also dedicated many hours to data cleaning, transformation, and preprocessing.
-
-Furthermore, during my Economics degree, I had the opportunity to learn how to use the **R language for linear regressions and econometric studies. I am also studying macroeconomics and microeconomics**, which allows me to have a deeper understanding of economic issues and apply that knowledge to data analysis.
-
-I have experience working with **Python, R, SQL, and Tableau (or similar dashboard building tools) to develop exploratory data analysis, statistical analysis, visualizations, and ETL processes**. I also frequently use Excel in my activities.
-
-Additionally, I would like to mention that I have an **advanced level of English**, which enables me to communicate and collaborate effectively on international projects.
-
-I am excited to apply my knowledge to real-world projects and continue growing in this promising field! If you have any questions or need assistance, **please feel free to ask me**.
 
 Você pode conferir alguns visitando meu LinkedIn [clicando aqui](https://www.linkedin.com/in/luiz-g-pereira/).
 
