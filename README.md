@@ -36,6 +36,7 @@ E fique a vontade para dar uma olhada nos meus projetos aqui em baixo:
 | ------------        | ------------        | ------------ |------------ |
 | *Análise Baseada em Eventos de um E-commerce* | [Projeto_Analise_Eventos](https://github.com/Luizg39/TripleTen-10-Projeto_Analise_Eventos?search=1) | Python| **Um projeto com Análise Baseada em Eventos e Teste A/B**, da definição do problema, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), tratamento, Análise de Funil de vendas e Análise do TesteA/B, de um e-commerce de produtos alimentícios.|
 
+| *Análise Baseada em Eventos de um E-commerce* | [Projeto_Analise_Eventos](https://github.com/Luizg39/TripleTen-10-Projeto_Analise_Eventos?search=1) | Python| **Um projeto com Análise Baseada em Eventos e Teste A/B**, da definição do problema, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), tratamento, Análise de Funil de vendas e Análise do TesteA/B, de um e-commerce de produtos alimentícios.|
 
 
 | *Análise do risco de inadimplência dos mutuários* | [Projeto_Inadiplencia](https://github.com/Luizg39/Projetos_Practicum/blob/790cbd06724515e336bf9192f94d4a3248115e82/Projetos_Practicum/S2-Projeto_Inadiplencia/Projeto_Inadiplencia.ipynb) | Python| **Projeto com  tratamento e Análise Exploratória dos Dados (EDA - *Exploratory Data Analysis)**. Investigação do impacto do estado civil e do número de filhos no pagamento de empréstimos.|
