@@ -6,7 +6,7 @@
 
 Embora tenha uma formação técnica em informática, percebi que também tinha interesse e habilidades na área de **análise de dados e economia**. Em setembro de 2022, decidi investir em cursos de **Análise de Dados** para aprimorar minhas habilidades nesses campos. Rapidamente me apaixonei pela área, pois ela envolve **programação, estatística e pensamento analítico**.
 
-Matriculei-me no Bootcamp de Analista de Dados da Practicum by Yandex. **Durante o curso, adquiri conhecimentos valiosos sobre as principais bibliotecas Python utilizadas na análise de dados, como pandas, numpy, matplotlib, plotly, scipy e scikit-learn, entre outras. Aprendi a aplicá-las na solução de problemas de negócios, como machine learning, segmentação de clientes, análise de KPIs, testes estatísticos e análise econômica.** Também dediquei muitas horas à limpeza, transformação e pré-processamento de conjuntos de dados.
+Formado no Bootcamp de Analista de Dados da TripleTen. Durante o curso, adquiri conhecimentos valiosos sobre as principais bibliotecas Python utilizadas na análise de dados, como pandas, numpy, matplotlib, plotly, scipy e scikit-learn, entre outras. Aprendi a aplicá-las na solução de problemas de negócios, como machine learning, segmentação de clientes, análise de KPIs, testes estatísticos e análise econômica. Também dediquei muitas horas à limpeza, transformação e pré-processamento de conjuntos de dados.
 
 Além disso, durante o curso de Ciências Econômicas, tive a oportunidade de aprender a utilizar a **linguagem R para realizar regressões lineares e estudos econométricos. Também estou estudando macroeconomia e microeconomia**, o que me permite ter uma compreensão mais profunda das questões econômicas e aplicar esse conhecimento em análises de dados.
 
